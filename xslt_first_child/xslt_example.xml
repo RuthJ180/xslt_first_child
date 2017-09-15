@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <topic attr1="val1">value1
+    <title>
+      <body>
+        <note>
+          <p>
+            <fig>figure 1
+            </fig>
+          </p>
+        </note>
+      </body>
+    </title>
+  </topic>
+</root>
